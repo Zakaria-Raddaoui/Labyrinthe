@@ -106,7 +106,6 @@ class SearchLabyrinthe:
         return full_path
 
 
-
 g = Graphe()
 search = SearchLabyrinthe(g)
 m = maze(10, 10)
